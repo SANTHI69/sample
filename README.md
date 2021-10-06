@@ -11,4 +11,3 @@
 * _JS_
 * _REACT_
 * _ANGULAR_
-* _nodejs
