@@ -13,3 +13,5 @@
 * _ANGULAR_
 * _nodejs
 java
+dotnet
+aws
